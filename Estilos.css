@@ -1,0 +1,23 @@
+.FORMULARIO{
+    height: auto;
+    margin: 0%;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    padding: 1px;
+
+
+}
+
+.contenedor{
+    height: auto;
+    margin: 0%;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    padding: 1px;
+}
+.body{
+    background: url(imagenes/99537de91969cd5bec2142c8979c9ae3--russia-ukraine-russian-culture.jpg);
+    border-radius: 500px;
+}
